@@ -3,8 +3,8 @@
 - 💭 I'm currently exploring web development and mobile app development
 - 🖌️ Fun fact: I'm an artist! :)
 
-[Check out more of my projects here](https://www.github.com/tuhina-das)
-[Let's connect](https://www.linkedin.com/in/tuhina-k-das)
+- [Check out more of my projects here](https://www.github.com/tuhina-das)
+- [Let's connect!](https://www.linkedin.com/in/tuhina-k-das)
 <!--
 **tuhina-das/tuhina-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
