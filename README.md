@@ -1,7 +1,15 @@
-## Hi there 👋
+## Hey there, I'm Tuhina! 🫶
+- ✨ I like connecting people through the things I make
+- 💭 I'm currently exploring web development and mobile app development
+- 🖌️ Fun fact: I'm an artist! :)
 
+[Check out more of my projects here](https://www.github.com/tuhina-das)
+
+## Let's connect! 🙌
+[<img src="https://i.pinimg.com/originals/83/66/f2/8366f23e06a9426e4bd58186e6193d91.png" alt="LinkedIn" width="100"/>](https://www.linkedin.com/in/tuhina-k-das/)
+[<img src="https://i.pinimg.com/originals/0a/ca/cf/0acacfe788e0d73a77db226f0fc9cbf5.png" alt="LinkedIn" width="100"/>](tuhinakdas@gmail.com)
 <!--
-**bc-tuhina-das/bc-tuhina-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tuhina-das/tuhina-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
